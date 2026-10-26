@@ -5,4 +5,4 @@ a = np.array([
     [4, 5, 6]
     ])
 
-printzzzz(a)
+print(a)
